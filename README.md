@@ -126,12 +126,6 @@ Contributions are welcome! If you’d like to contribute to this project, please
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - This implementation was created as part of a learning exercise to understand doubly linked lists and their applications.
